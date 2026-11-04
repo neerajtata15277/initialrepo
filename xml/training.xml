@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student>
+        <studentId>1</studentId>
+        <name>neeraj</name>
+        <age>22</age>
+        <email>neerajtata1527@gmail.com</email>
+        <course>ECE</course>
+        <marks>100</marks>
+    </student>
+
+    <student>
+        <studentId>2</studentId>
+        <name>pramod</name>
+        <age>26</age>
+        <email>pramodtata1527@gmail.com</email>
+        <course>ECE</course>
+        <marks>100</marks>
+    </student>
+
+</students>
